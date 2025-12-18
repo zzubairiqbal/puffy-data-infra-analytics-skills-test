@@ -1,0 +1,109 @@
+{
+  "partitions": [
+    {
+      "file": "events_20250223.csv",
+      "clean_rows": 4070,
+      "quarantine_rows": 0,
+      "quarantine_reason_counts": {}
+    },
+    {
+      "file": "events_20250224.csv",
+      "clean_rows": 3768,
+      "quarantine_rows": 1,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 1
+      }
+    },
+    {
+      "file": "events_20250225.csv",
+      "clean_rows": 3469,
+      "quarantine_rows": 1,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 1
+      }
+    },
+    {
+      "file": "events_20250226.csv",
+      "clean_rows": 3175,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "transaction_id_collision": 2
+      }
+    },
+    {
+      "file": "events_20250227.csv",
+      "clean_rows": 3390,
+      "quarantine_rows": 3,
+      "quarantine_reason_counts": {
+        "transaction_id_collision": 2,
+        "invalid_purchase_fields_or_revenue": 1
+      }
+    },
+    {
+      "file": "events_20250228.csv",
+      "clean_rows": 3262,
+      "quarantine_rows": 1,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 1
+      }
+    },
+    {
+      "file": "events_20250301.csv",
+      "clean_rows": 3487,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "transaction_id_collision": 2
+      }
+    },
+    {
+      "file": "events_20250302.csv",
+      "clean_rows": 4335,
+      "quarantine_rows": 0,
+      "quarantine_reason_counts": {}
+    },
+    {
+      "file": "events_20250303.csv",
+      "clean_rows": 4040,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 2
+      }
+    },
+    {
+      "file": "events_20250304.csv",
+      "clean_rows": 3536,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 2
+      }
+    },
+    {
+      "file": "events_20250305.csv",
+      "clean_rows": 2881,
+      "quarantine_rows": 0,
+      "quarantine_reason_counts": {}
+    },
+    {
+      "file": "events_20250306.csv",
+      "clean_rows": 3440,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "invalid_purchase_fields_or_revenue": 2
+      }
+    },
+    {
+      "file": "events_20250307.csv",
+      "clean_rows": 3251,
+      "quarantine_rows": 0,
+      "quarantine_reason_counts": {}
+    },
+    {
+      "file": "events_20250308.csv",
+      "clean_rows": 3841,
+      "quarantine_rows": 2,
+      "quarantine_reason_counts": {
+        "transaction_id_collision": 2
+      }
+    }
+  ]
+}

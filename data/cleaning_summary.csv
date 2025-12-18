@@ -1,0 +1,15 @@
+file,clean_rows,quarantine_rows,quarantine_reason_counts
+events_20250223.csv,4070,0,{}
+events_20250224.csv,3768,1,{'invalid_purchase_fields_or_revenue': 1}
+events_20250225.csv,3469,1,{'invalid_purchase_fields_or_revenue': 1}
+events_20250226.csv,3175,2,{'transaction_id_collision': 2}
+events_20250227.csv,3390,3,"{'transaction_id_collision': 2, 'invalid_purchase_fields_or_revenue': 1}"
+events_20250228.csv,3262,1,{'invalid_purchase_fields_or_revenue': 1}
+events_20250301.csv,3487,2,{'transaction_id_collision': 2}
+events_20250302.csv,4335,0,{}
+events_20250303.csv,4040,2,{'invalid_purchase_fields_or_revenue': 2}
+events_20250304.csv,3536,2,{'invalid_purchase_fields_or_revenue': 2}
+events_20250305.csv,2881,0,{}
+events_20250306.csv,3440,2,{'invalid_purchase_fields_or_revenue': 2}
+events_20250307.csv,3251,0,{}
+events_20250308.csv,3841,2,{'transaction_id_collision': 2}
