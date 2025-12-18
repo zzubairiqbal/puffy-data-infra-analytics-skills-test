@@ -1,0 +1,15 @@
+file,date,rows,columns,identity_null_rate,purchase_count,revenue_sum
+events_20250223.csv,20250223,4070,"['client_id', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.005405405405405406,21,20408.0
+events_20250224.csv,20250224,3769,"['client_id', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.014592730167153092,26,25457.6
+events_20250225.csv,20250225,3470,"['client_id', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.009798270893371758,16,13543.0
+events_20250226.csv,20250226,3177,"['client_id', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.01447906830343091,15,18629.0
+events_20250227.csv,20250227,3393,"['clientId', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.010020630710285883,21,18148.0
+events_20250228.csv,20250228,3263,"['clientId', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.00827459393196445,19,18669.0
+events_20250301.csv,20250301,3489,"['clientId', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.006592146746918888,29,33183.0
+events_20250302.csv,20250302,4335,"['clientId', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.1580161476355248,22,28221.0
+events_20250303.csv,20250303,4042,"['clientId', 'page_url', 'referrer', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.08683819891142998,24,20504.8
+events_20250304.csv,20250304,3538,"['clientId', 'page_url', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.0847936687394008,20,12415.0
+events_20250305.csv,20250305,2881,"['clientId', 'page_url', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.07913918778202013,20,20714.0
+events_20250306.csv,20250306,3442,"['clientId', 'page_url', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.08280069726902964,23,21754.0
+events_20250307.csv,20250307,3251,"['clientId', 'page_url', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.08305136880959704,16,18331.0
+events_20250308.csv,20250308,3843,"['clientId', 'page_url', 'timestamp', 'event_name', 'event_data', 'user_agent']",0.1425969294821754,22,24484.0

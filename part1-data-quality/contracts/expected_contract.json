@@ -1,0 +1,37 @@
+{
+  "required_base_columns": [
+    "page_url",
+    "timestamp",
+    "event_name",
+    "event_data",
+    "user_agent"
+  ],
+  "identity_columns": [
+    "client_id",
+    "clientId"
+  ],
+  "optional_columns": [
+    "referrer"
+  ],
+  "allowed_events": [
+    "page_viewed",
+    "product_added_to_cart",
+    "checkout_started",
+    "checkout_completed",
+    "email_filled_on_popup"
+  ],
+  "event_data_requirements": {
+    "checkout_completed": {
+      "required_fields": [
+        "transaction_id",
+        "revenue",
+        "items"
+      ]
+    },
+    "email_filled_on_popup": {
+      "required_fields": [
+        "email"
+      ]
+    }
+  }
+}
