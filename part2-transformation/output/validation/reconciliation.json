@@ -1,0 +1,12 @@
+{
+  "input_event_rows": 49945,
+  "session_rows": 40133,
+  "purchase_events_rows": 276,
+  "purchases_table_rows": 276,
+  "revenue_sum_purchases": 278799.4,
+  "purchases_missing_session_id": 0,
+  "revenue_sum_attrib_first_click": 278799.4,
+  "revenue_sum_attrib_last_click": 278799.4,
+  "revenue_sum_attrib_last_non_direct": 278799.4,
+  "revenue_sum_diff_purchases_vs_attrib": 0.0
+}
