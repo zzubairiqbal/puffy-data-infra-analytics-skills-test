@@ -1,0 +1,35 @@
+[
+  {
+    "day": "2025-02-28",
+    "metric": "revenue",
+    "value": 18669.0,
+    "baseline_median": 14000.0,
+    "mad": 457.0,
+    "robust_z": 6.891117067833698,
+    "relative_change": 0.3335,
+    "severity": "P1_HIGH",
+    "message": "revenue deviated materially vs prior 7 days (median=14000.00)."
+  },
+  {
+    "day": "2025-03-01",
+    "metric": "revenue",
+    "value": 29590.0,
+    "baseline_median": 16334.5,
+    "mad": 2610.0,
+    "robust_z": 3.425607183908046,
+    "relative_change": 0.8115032599712265,
+    "severity": "P0_BLOCKER",
+    "message": "revenue deviated materially vs prior 7 days (median=16334.50)."
+  },
+  {
+    "day": "2025-03-02",
+    "metric": "revenue",
+    "value": 28221.0,
+    "baseline_median": 18669.0,
+    "mad": 4763.0,
+    "robust_z": 1.3526819231576737,
+    "relative_change": 0.5116503294231078,
+    "severity": "P1_HIGH",
+    "message": "revenue deviated materially vs prior 7 days (median=18669.00)."
+  }
+]
